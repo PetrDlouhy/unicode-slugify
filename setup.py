@@ -15,7 +15,7 @@ setup(
     author_email='jbalogh@mozilla.com, dd@mozilla.com',
     url='http://github.com/mozilla/unicode-slugify',
     license='BSD',
-    packages=['slugify'],
+    packages=['unicode_slugify'],
     include_package_data=True,
     package_data={'': ['README.md']},
     zip_safe=False,
